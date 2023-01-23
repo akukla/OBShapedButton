@@ -8,10 +8,10 @@
 
 /* Begin PBXBuildFile section */
 		B50AA4F8297AE5A300437CB0 /* ob_shaped_button.h in Headers */ = {isa = PBXBuildFile; fileRef = B50AA4F7297AE5A300437CB0 /* ob_shaped_button.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B50AA504297AE5E900437CB0 /* OBShapedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = B50AA4FF297AE5E800437CB0 /* OBShapedButton.h */; };
+		B50AA504297AE5E900437CB0 /* OBShapedButton.h in Headers */ = {isa = PBXBuildFile; fileRef = B50AA4FF297AE5E800437CB0 /* OBShapedButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		B50AA505297AE5E900437CB0 /* OBShapedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B50AA500297AE5E800437CB0 /* OBShapedButton.m */; };
 		B50AA506297AE5E900437CB0 /* UIImage+ColorAtPixel.m in Sources */ = {isa = PBXBuildFile; fileRef = B50AA502297AE5E900437CB0 /* UIImage+ColorAtPixel.m */; };
-		B50AA507297AE5E900437CB0 /* UIImage+ColorAtPixel.h in Headers */ = {isa = PBXBuildFile; fileRef = B50AA503297AE5E900437CB0 /* UIImage+ColorAtPixel.h */; };
+		B50AA507297AE5E900437CB0 /* UIImage+ColorAtPixel.h in Headers */ = {isa = PBXBuildFile; fileRef = B50AA503297AE5E900437CB0 /* UIImage+ColorAtPixel.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
